@@ -1,1 +1,1 @@
-#hi this the second file of project 2
+# thisa is the second file of python
